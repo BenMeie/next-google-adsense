@@ -3,4 +3,5 @@ coverage
 .vscode
 .env
 .dccache
-dist
+# dist
+.DS_Store
