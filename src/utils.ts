@@ -1,4 +1,4 @@
-const PUBLISHER_ID_REGEX = /^pub-\d{16}$/;
+const PUBLISHER_ID_REGEX = /^(ca-)?pub-\d{16}$/;
 const SLOT_ID_REGEX = /^\d{10}$/;
 
 export function isPublisherId(id: string | undefined): boolean {
