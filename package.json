@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soranoo/next-google-adsense.git"
+    "url": "git+https://github.com/BenMeie/next-google-adsense.git"
   },
   "author": "soranoo (Freeman)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soranoo/next-google-adsense/issues"
+    "url": "https://github.com/BenMeie/next-google-adsense/issues"
   },
-  "homepage": "https://github.com/soranoo/next-google-adsense#readme",
+  "homepage": "https://github.com/BenMeie/next-google-adsense#readme",
   "peerDependencies": {
     "next": ">=11.0.0",
     "react": ">=17.0.0"
