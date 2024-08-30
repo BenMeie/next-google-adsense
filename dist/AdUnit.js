@@ -46,7 +46,7 @@ const AdUnit = ({ publisherId, slotId, layout = "display", customLayout, comment
             comment.replace(" ", "-") },
         Ad,
         react_1.default.createElement(script_1.default, { id: "next-google-adsense", strategy: "afterInteractive" },
-            "(window.adsbygoogle = window.adsbygoogle || []).push(",
+            "(window.adsbygoogle = window.adsbygoogle || []).push({}",
             ");")));
 };
 exports.AdUnit = AdUnit;
